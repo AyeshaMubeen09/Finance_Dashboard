@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Myproj</string>
+    <string name="checking_account">Checking Account</string>
+    <string name="_185_540">$185,540</string>
+    <string name="deposit">Deposit</string>
+    <string name="transfer">Transfer</string>
+    <string name="invite_a_friend_and_enjoy_the_nreward_of_10">Invite a friend and enjoy the\nreward of $10</string>
+    <string name="refer_friends">Refer Friends</string>
+    <string name="get_10">Get $10</string>
+    <string name="transaction_history">Transaction history</string>
+    <string name="Withdraw" />
+</resources>
